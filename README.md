@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Taneja</h1>
-<h3 align="center">A 21-year-old B-Tech College student from India who loves experimenting with cutting-edge technologies.</h3>
+<h3 align="center">21-year-old B-Tech College student from India who loves experimenting with cutting-edge technologies.</h3>
 
 
 - 🔭 I’m currently working on [Chat Mingle 2.0 - Real-time messaging app](https://github.com/shiivamtaneja/chat-mingle-2.0)
