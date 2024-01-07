@@ -2,7 +2,7 @@
 <h3 align="center">21-year-old B-Tech College student from India who loves experimenting with cutting-edge technologies.</h3>
 
 
-- 🔭 I’m currently working on [Chat Mingle 2.0 - Real-time messaging app](https://github.com/shiivamtaneja/chat-mingle-2.0)
+- 🔭 I’m currently working on [Unit Testing React using JEST and RTL](https://github.com/shiivamtaneja/react-testing)
 
 - 🌱 I’m currently learning **Next JS, Node JS, Typescript**
 
