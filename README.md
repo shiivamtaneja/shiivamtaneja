@@ -2,7 +2,7 @@
 <h3 align="center">21-year-old B-Tech College student from India who loves experimenting with cutting-edge technologies.</h3>
 
 
-- 🔭 I’m currently working on [Unit Testing React using JEST and RTL](https://github.com/shiivamtaneja/react-testing)
+- 🔭 I’m currently working on [Building a publisher subscriber model based web app](https://github.com/shiivamtaneja/central-sync-hub)
 
 - 🌱 I’m currently learning **Next JS, Node JS, Typescript**
 
